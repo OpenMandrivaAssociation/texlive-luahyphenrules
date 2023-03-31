@@ -1,6 +1,6 @@
 Name:		texlive-luahyphenrules
 Version:	56200
-Release:	1
+Release:	2
 Summary:	Loading patterns in LuaLaTeX with language.dat
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luahyphenrules
