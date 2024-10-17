@@ -3,7 +3,7 @@ Version:	56200
 Release:	2
 Summary:	Loading patterns in LuaLaTeX with language.dat
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luahyphenrules
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luahyphenrules
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luahyphenrules.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luahyphenrules.doc.r%{version}.tar.xz
